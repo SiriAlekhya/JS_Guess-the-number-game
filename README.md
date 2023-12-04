@@ -11,11 +11,13 @@ This project is a basic number guessing game where the user needs to guess a ran
 5. Your current score and highscore will be displayed during the game.
 6. Click the "Again!" button to start a new game.
 
-# Project Details
-. The game initializes with a random secret number and a starting score of 5
-. User input is validated, and feedback messages are displayed
-• The game dynamically updates the background color and width of the displayed number based on user interaction.
-• Highscore is tracked and updated as the user achieves a new highscore.
+## Project Details
+
+- The game initializes with a random secret number and a starting score of 5.
+- User input is validated, and feedback messages are displayed.
+- The game dynamically updates the background color and width of the displayed number based on user interaction.
+- Highscore is tracked and updated as the user achieves a new highscore.
+
 
 # Setup
 1. Clone the repository
